@@ -1,1 +1,1 @@
-print("otra")
+print("otras")
